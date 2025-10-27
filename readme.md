@@ -28,6 +28,7 @@ dtype: int64
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 100 entries, 0 to 99
 Data columns (total 12 columns):
+```
  #   Column             Non-Null Count  Dtype         
 ---  ------             --------------  -----         
  0   Index              100 non-null    int64         
@@ -41,17 +42,21 @@ Data columns (total 12 columns):
  8   Phone 2            100 non-null    object        
  9   Email              100 non-null    object        
  10  Subscription Date  100 non-null    datetime64[ns]
- 11  Website            100 non-null    object        
+ 11  Website            100 non-null    object
 dtypes: datetime64[ns](1), int64(1), object(10)
+
+
+
 memory usage: 9.5+ KB
-None 
+None
+```
 
-
+```
 
 
 
 👥 Total Customers: 100
-
+``
 🌍 Customers by Country:
 Country
 Solomon Islands                     4
@@ -92,4 +97,4 @@ oconnell.com    1
 odonnell.net    1
 Name: count, dtype: int64
 root@localhost ~/customer_analysis # 
-
+```
