@@ -8,7 +8,7 @@
 4      5  ...  https://goodwin-ingram.com/
 
 [5 rows x 12 columns] 
-
+```
 🧹 Checking for missing values:
 Index                0
 Customer Id          0
@@ -23,7 +23,7 @@ Email                0
 Subscription Date    0
 Website              0
 dtype: int64 
-
+```
 ℹ️ Dataset Info:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 100 entries, 0 to 99
